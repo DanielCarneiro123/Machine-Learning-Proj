@@ -45187,9 +45187,6 @@ Id,age,job,marital,education,default,balance,housing,loan,contact,day,month,dura
 46201,38.0,technician,married,secondary,no,557.0,yes,no,cellular,16,nov,1556,4,-1,0,unknown,yes
 46202,53.0,management,married,tertiary,no,583.0,no,no,cellular,17,nov,226,1,184,4,success,yes
 46203,34.0,admin.,single,secondary,no,557.0,no,no,cellular,17,nov,224,1,-1,0,unknown,yes
-46204,-1.0,student,single,tertiary,no,113.0,no,no,cellular,17,nov,266,1,-1,0,unknown,yes
-46205,-1.0,retired,married,secondary,no,2850.0,no,no,cellular,17,nov,300,1,40,8,failure,yes
-46206,-1.0,technician,single,secondary,no,505.0,no,yes,cellular,17,nov,386,2,-1,0,unknown,yes
 46207,51.0,technician,married,tertiary,no,825.0,no,no,cellular,17,nov,977,3,-1,0,unknown,yes
 46208,71.0,retired,divorced,primary,no,1729.0,no,no,cellular,17,nov,456,2,-1,0,unknown,yes
 46209,72.0,retired,married,secondary,no,5715.0,no,no,cellular,17,nov,1127,5,184,3,success,yes
